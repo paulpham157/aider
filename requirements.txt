@@ -277,7 +277,7 @@ pexpect==4.9.0
     # via
     #   -c requirements/common-constraints.txt
     #   -r requirements/requirements.in
-pillow==11.2.1
+pillow==11.3.0
     # via
     #   -c requirements/common-constraints.txt
     #   -r requirements/requirements.in
